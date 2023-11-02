@@ -1,0 +1,2 @@
+D:\Classroom\BaoTram\HK-I\Reports\Report Game\Midterm\Midterm\Midterm\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Classroom\BaoTram\HK-I\Reports\Report Game\Midterm\Midterm\Midterm\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
